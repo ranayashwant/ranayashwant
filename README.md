@@ -56,7 +56,7 @@
 
 ## 🚀 Featured Projects
 
-### 📊 [Mutual Fund Screener & Portfolio Tracker](https://github.com/ranayashwant) *(In Progress)*
+### 📊 [Mutual Fund Screener & Portfolio Tracker](https://github.com/ranayashwant/mf-screener) *(In Progress)*
 > **Stack:** JavaScript · Node.js · Express.js · MySQL · React
 
 - Full-stack web app to screen mutual funds by category, risk, returns & expense ratio using live **AMFI data**
