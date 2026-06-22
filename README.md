@@ -73,7 +73,7 @@
 
 ---
 
-### 🏨 [Hotel Management System](https://github.com/ranayashwant)
+### 🏨 [Hotel Management System](https://github.com/ranayashwant/hotel-management-cpp)
 > **Stack:** C++
 
 - Console application covering room reservations, billing, check-in/out & staff management
