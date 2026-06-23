@@ -65,7 +65,7 @@
 
 ---
 
-### 🤟 [Sign Language to Text Conversion](https://github.com/ranayashwant/Sign-Language-to-Text-Conversion)
+### 🤌🏻 [Sign Language to Text Conversion](https://github.com/ranayashwant/Sign-Language-to-Text-Conversion)
 > **Stack:** Python · TensorFlow · MediaPipe · cvzone
 
 - Built and labeled a **custom hand-gesture dataset from scratch**; retrained TensorFlow model for real-time gesture classification
