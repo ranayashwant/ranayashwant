@@ -96,14 +96,28 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranayashwant&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranayashwant&layout=compact&theme=tokyonight&hide_border=true&v=1" />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=ranayashwant&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranayashwant&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranayashwant&theme=tokyonight&hide_border=true" width="60%" />
+  <img
+    height="180"
+    src="https://streak-stats.demolab.com?user=ranayashwant&theme=tokyonight"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
+
 
 ## 🤝 Let's Connect
 
