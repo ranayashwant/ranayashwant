@@ -95,18 +95,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=ranayashwant&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranayashwant&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-  />
-</p>
+
 
 <p align="center">
   <img
