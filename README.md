@@ -99,7 +99,7 @@
 
 <p align="center">
   <img
-    height="180"
+    height="179"
     src="https://streak-stats.demolab.com?user=ranayashwant&theme=tokyonight"
     alt="GitHub Streak"
   />
