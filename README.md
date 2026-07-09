@@ -58,6 +58,7 @@
 
 ### 📊 [Mutual Fund Screener & Portfolio Tracker](https://github.com/ranayashwant/mf-screener) 
 > **Stack:** JavaScript · Node.js · Express.js · MySQL · React
+> 🔗 **[Live Demo](https://mf-screener-three.vercel.app/)**
 
 - Full-stack web app to screen mutual funds by category, risk, returns & expense ratio using live **AMFI data**
 - Includes a **SIP deployment planner** — solves a real gap in tools like Zerodha Coin (no instalment-count-based lump sum SIP planning)
@@ -77,7 +78,7 @@
 > **Stack:** C++
 
 - Console application covering room reservations, billing, check-in/out & staff management
-- Implements **data encryption** for guest privacy protection
+
 
 ---
 
