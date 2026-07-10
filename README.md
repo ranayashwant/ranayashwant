@@ -5,7 +5,7 @@
   <a href="https://linkedin.com/in/ranayashwant" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:yashwant2609@gmail.com">
+  <a href="mailto:ranayashwant.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/ranayashwant" target="_blank">
@@ -21,7 +21,7 @@
 - 🏗️ Currently building a **Mutual Fund Screener & Portfolio Tracker** — a full-stack app solving a real gap in retail investor tools (Node.js · React · MySQL)
 - 💼 **2+ years** as an NISM-Certified Mutual Fund Distributor — I bring actual domain knowledge to every FinTech project I build
 - 🔍 Actively targeting **entry-level Software Engineering** roles where technical fundamentals + domain expertise both add value
-- 📬 Reach me at **yashwant2609@gmail.com**
+- 📬 Reach me at **ranayashwant.dev@gmail.com**
 
 ---
 
@@ -118,7 +118,7 @@ I'm open to **entry-level SWE roles**, **backend internships**, and **collaborat
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:yashwant2609@gmail.com">
+  <a href="mailto:ranayashwant.dev@gmail.com">
     <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
