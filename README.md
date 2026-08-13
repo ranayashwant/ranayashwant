@@ -18,7 +18,7 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 **B.Tech in ECE** from DSMNRU (CGPA: 7.95) · **GATE CSE 2026** qualifier (~89th percentile)
-- 🏗️ Currently building a **Mutual Fund Screener & Portfolio Tracker** — a full-stack app solving a real gap in retail investor tools (Node.js · React · MySQL)
+- 🏗️ Build and deployed a **Mutual Fund Screener & Portfolio Tracker** — a full-stack app solving a real gap in retail investor tools (Node.js · React · MySQL)
 - 💼 **2+ years** as an NISM-Certified Mutual Fund Distributor — I bring actual domain knowledge to every FinTech project I build
 - 🔍 Actively targeting **entry-level Software Engineering** roles where technical fundamentals + domain expertise both add value
 - 📬 Reach me at **ranayashwant.dev@gmail.com**
