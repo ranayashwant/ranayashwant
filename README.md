@@ -2,6 +2,9 @@
 <h3 align="center">Backend-focused Full-Stack Developer · GATE CSE 2026 (~89th Percentile) · Ex-FinTech Domain Expert</h3>
 
 <p align="center">
+  <a href="https://rana-terminal.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/%3E__PORTFOLIO-0B0D0F?style=for-the-badge&logo=gnubash&logoColor=E8A33D&color=0B0D0F" />
+  </a>
   <a href="https://linkedin.com/in/ranayashwant" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -18,6 +21,7 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 **B.Tech in ECE** from DSMNRU (CGPA: 7.95) · **GATE CSE 2026** qualifier (~89th percentile)
+- 🌐 **Interactive Portfolio:** [rana-terminal.vercel.app](https://rana-terminal.vercel.app/) — built with a Bloomberg-style interactive terminal theme
 - 🏗️ Built and deployed a **Mutual Fund Screener & Portfolio Tracker** — a full-stack app solving a real gap in retail investor tools (Node.js · React · MySQL)
 - 💼 **2+ years** as an NISM-Certified Mutual Fund Distributor — I bring actual domain knowledge to every FinTech project I build
 - 🔍 Actively targeting **entry-level Software Engineering** roles where technical fundamentals + domain expertise both add value
@@ -112,7 +116,11 @@
 I'm open to **entry-level SWE roles**, **backend internships**, and **collaboration on FinTech / accessibility projects**.
 
 <p align="center">
-  <a href="https://linkedin.com/in/ranayashwant">
+  <a href="https://rana-terminal.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/%3E__PORTFOLIO-0B0D0F?style=for-the-badge&logo=gnubash&logoColor=E8A33D&color=0B0D0F" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/ranayashwant" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
