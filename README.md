@@ -18,7 +18,7 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 **B.Tech in ECE** from DSMNRU (CGPA: 7.95) · **GATE CSE 2026** qualifier (~89th percentile)
-- 🏗️ Build and deployed a **Mutual Fund Screener & Portfolio Tracker** — a full-stack app solving a real gap in retail investor tools (Node.js · React · MySQL)
+- 🏗️ Built and deployed a **Mutual Fund Screener & Portfolio Tracker** — a full-stack app solving a real gap in retail investor tools (Node.js · React · MySQL)
 - 💼 **2+ years** as an NISM-Certified Mutual Fund Distributor — I bring actual domain knowledge to every FinTech project I build
 - 🔍 Actively targeting **entry-level Software Engineering** roles where technical fundamentals + domain expertise both add value
 - 📬 Reach me at **ranayashwant.dev@gmail.com**
@@ -57,7 +57,7 @@
 ## 🚀 Featured Projects
 
 ### 📊 [Mutual Fund Screener & Portfolio Tracker](https://github.com/ranayashwant/mf-screener) 
-> **Stack:** JavaScript · Node.js · Express.js · MySQL · React
+> **Stack:** JavaScript · Node.js · Express.js · MySQL · React  
 > 🔗 **[Live Demo](https://mf-screener-three.vercel.app/)**
 
 - Full-stack web app to screen mutual funds by category, risk, returns & expense ratio using live **AMFI data**
@@ -66,19 +66,20 @@
 
 ---
 
+### ⚡ [Sensibull Trade Behavior & Risk Pattern Analyzer](https://github.com/ranayashwant/sensibull-trade-behavior-analyzer)
+> **Stack:** React 19 · Vite · Tailwind CSS · Recharts · JavaScript  
+> 🔗 **[Live Demo](https://sensibull-trade-behavior-analyzer.vercel.app/)**
+
+- Options trading behavioral diagnostics engine detecting emotional trading traps: **Revenge Sizing Spikes**, **Loss Aversion (holding losers 2.3× longer)**, **35% Concentration Risk**, and **Velocity Spikes**
+- Features a **pure client-side algorithmic engine**, interactive options audit ledger, and Sensibull Mindful Trading pre-execution pause protocol
+
+---
+
 ### 🤌🏻 [Sign Language to Text Conversion](https://github.com/ranayashwant/Sign-Language-to-Text-Conversion)
 > **Stack:** Python · TensorFlow · MediaPipe 
 
 - Built and labeled a **custom hand-gesture dataset from scratch**; retrained TensorFlow model for real-time gesture classification
 - Deployed as an **accessibility tool** enabling real-time text output for hearing-impaired users
-
----
-
-### 🏨 [Hotel Management System](https://github.com/ranayashwant/hotel-management-cpp)
-> **Stack:** C++
-
-- Console application covering room reservations, billing, check-in/out & staff management
-
 
 ---
 
@@ -96,8 +97,6 @@
 
 ## 📈 GitHub Stats
 
-
-
 <p align="center">
   <img
     height="179"
@@ -107,7 +106,6 @@
 </p>
 
 ---
-
 
 ## 🤝 Let's Connect
 
